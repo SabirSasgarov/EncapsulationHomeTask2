@@ -11,10 +11,10 @@ namespace ClassTask12thFeb.Models
         public int Distance;
         public int CattirmaPulu;
 
-        public OnlineOrder(int id, string name, int count, double price, int distance, int cattirmaPulu):base(id,name,count,price)
+        public OnlineOrder(int id, string name, int count, double price, int distance):base(id,name,count,price)
         {
             Distance = distance;
-            CattirmaPulu = cattirmaPulu;
+            CattirmaPulu = 3;
         }
 
         public int TotalCatdirmaPulu()

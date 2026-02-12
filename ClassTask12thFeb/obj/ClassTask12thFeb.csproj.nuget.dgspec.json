@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabirsas\\Desktop\\New folder\\ClassTask12thFeb\\ClassTask12thFeb\\ClassTask12thFeb.csproj": {}
+    "C:\\Users\\sabirsas\\Desktop\\New folder (2)\\ClassTask12thFeb\\ClassTask12thFeb\\ClassTask12thFeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabirsas\\Desktop\\New folder\\ClassTask12thFeb\\ClassTask12thFeb\\ClassTask12thFeb.csproj": {
+    "C:\\Users\\sabirsas\\Desktop\\New folder (2)\\ClassTask12thFeb\\ClassTask12thFeb\\ClassTask12thFeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabirsas\\Desktop\\New folder\\ClassTask12thFeb\\ClassTask12thFeb\\ClassTask12thFeb.csproj",
+        "projectUniqueName": "C:\\Users\\sabirsas\\Desktop\\New folder (2)\\ClassTask12thFeb\\ClassTask12thFeb\\ClassTask12thFeb.csproj",
         "projectName": "ClassTask12thFeb",
-        "projectPath": "C:\\Users\\sabirsas\\Desktop\\New folder\\ClassTask12thFeb\\ClassTask12thFeb\\ClassTask12thFeb.csproj",
+        "projectPath": "C:\\Users\\sabirsas\\Desktop\\New folder (2)\\ClassTask12thFeb\\ClassTask12thFeb\\ClassTask12thFeb.csproj",
         "packagesPath": "C:\\Users\\sabirsas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabirsas\\Desktop\\New folder\\ClassTask12thFeb\\ClassTask12thFeb\\obj\\",
+        "outputPath": "C:\\Users\\sabirsas\\Desktop\\New folder (2)\\ClassTask12thFeb\\ClassTask12thFeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

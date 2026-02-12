@@ -40,15 +40,10 @@ namespace ClassTask12thFeb.Models
             Count += n;
         }
 
-        public void ChangePrice(out double diff)
+        public void ChangePrice(int newPrice, out double diff)
         {
-            diff = int.Parse(Console.ReadLine());
-            double temp = diff;
-            if (Price >= temp)
-                diff = Price - temp;
-            else
-                diff = temp - Price;
-            Price = temp;
+            diff = newPrice - Price;
+            Price = newPrice;
         }
 
         public override string ToString()
