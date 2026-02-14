@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\encapsulationhometask2\\classtask12thfeb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|solutionrelative:classtask12thfeb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\encapsulationhometask2\\classtask12thfeb\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|solutionrelative:classtask12thfeb\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\encapsulationhometask2\\classtask12thfeb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|solutionrelative:classtask12thfeb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\encapsulationhometask2\\classtask12thfeb\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|solutionrelative:classtask12thfeb\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\encapsulationhometask2\\classtask12thfeb\\models\\onlineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|solutionrelative:classtask12thfeb\\models\\onlineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\programs\\encapsulationhometask2\\classtask12thfeb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CDD4FAB-4E31-4208-983F-2943792F0702}|ClassTask12thFeb\\ClassTask12thFeb.csproj|solutionrelative:classtask12thfeb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Program.cs",
               "RelativeDocumentMoniker": "ClassTask12thFeb\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Program.cs",
               "RelativeToolTip": "ClassTask12thFeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T12:10:57.438Z",
               "IsPinned": true,
@@ -40,26 +48,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ClassTask12thFeb\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Models\\Student.cs",
+              "RelativeToolTip": "ClassTask12thFeb\\Models\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:43:57.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ClassTask12thFeb\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Models\\Person.cs",
+              "RelativeToolTip": "ClassTask12thFeb\\Models\\Person.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:24:45.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ClassTask12thFeb\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Models\\Order.cs",
               "RelativeToolTip": "ClassTask12thFeb\\Models\\Order.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAABuAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADIAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T12:17:22.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "OnlineOrder.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Models\\OnlineOrder.cs",
               "RelativeDocumentMoniker": "ClassTask12thFeb\\Models\\OnlineOrder.cs",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\\u0130\u015F masas\u0131\\Programs\\EncapsulationHomeTask2\\ClassTask12thFeb\\Models\\OnlineOrder.cs",
               "RelativeToolTip": "ClassTask12thFeb\\Models\\OnlineOrder.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAB6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T13:00:17.426Z",
               "EditorCaption": ""
