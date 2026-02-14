@@ -28,8 +28,9 @@ namespace ClassTask12thFeb.Models
         }
         public override string ToString()
         {
-            return $"Mehsulun adi: {Name}, Mehsul ID: {Id}, Mehsul qiymeti: {Price}, Mehsul sayi: {Count}, " +
-                $"Total: {GetTotal()}, Cattirma Pulu: {TotalCatdirmaPulu()}, Umumi: {GetTotal()+TotalCatdirmaPulu()}\n";
+            //return $"Mehsulun adi: {Name}, Mehsul ID: {Id}, Mehsul qiymeti: {Price}, Mehsul sayi: {Count}, " +
+            //    $"Total: {GetTotal()}, Cattirma Pulu: {TotalCatdirmaPulu()}, Umumi: {GetTotal()+TotalCatdirmaPulu()}\n";
+            return base.ToString()+$", Cattirma Pulu: {TotalCatdirmaPulu()}, Umumi: {GetTotal() + TotalCatdirmaPulu()}\n";
         }
 
 

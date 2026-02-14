@@ -48,7 +48,7 @@ namespace ClassTask12thFeb.Models
 
         public override string ToString()
         {
-            return $"Kitab adi: {Name}, Kitab ID: {Id}, Kitab qiymeti: {Price}, Kitab sayi: {Count}, Total: {GetTotal()}\n";
+            return $"Mehsul adi: {Name}, Mehsul ID: {Id}, Mehsul qiymeti: {Price}, Mehsul sayi: {Count}, Total: {GetTotal()}";
         }
 
     }

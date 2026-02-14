@@ -31,7 +31,7 @@ namespace ClassTask12thFeb
 
             #region part3
             //OnlineOrder onlineOrder = new OnlineOrder(1, "defter", 2, 15, 12);
-            //Console.WriteLine(onlineOrder.ToString()); 
+            //Console.WriteLine(onlineOrder.ToString());
             #endregion
 
             #endregion

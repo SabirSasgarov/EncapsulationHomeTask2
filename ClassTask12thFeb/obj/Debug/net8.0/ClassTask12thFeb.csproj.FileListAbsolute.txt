@@ -28,3 +28,18 @@ C:\Users\sabirsas\Desktop\New folder (2)\ClassTask12thFeb\ClassTask12thFeb\obj\D
 C:\Users\sabirsas\Desktop\New folder (2)\ClassTask12thFeb\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.pdb
 C:\Users\sabirsas\Desktop\New folder (2)\ClassTask12thFeb\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.genruntimeconfig.cache
 C:\Users\sabirsas\Desktop\New folder (2)\ClassTask12thFeb\ClassTask12thFeb\obj\Debug\net8.0\ref\ClassTask12thFeb.dll
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\bin\Debug\net8.0\ClassTask12thFeb.exe
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\bin\Debug\net8.0\ClassTask12thFeb.deps.json
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\bin\Debug\net8.0\ClassTask12thFeb.runtimeconfig.json
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\bin\Debug\net8.0\ClassTask12thFeb.dll
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\bin\Debug\net8.0\ClassTask12thFeb.pdb
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.sourcelink.json
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.dll
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\refint\ClassTask12thFeb.dll
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.pdb
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ClassTask12thFeb.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\İş masası\Programs\EncapsulationHomeTask2\ClassTask12thFeb\obj\Debug\net8.0\ref\ClassTask12thFeb.dll
