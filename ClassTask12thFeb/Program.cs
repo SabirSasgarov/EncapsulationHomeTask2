@@ -43,9 +43,20 @@ namespace ClassTask12thFeb
 			#endregion
 
 			#region Task3
-			Student student1 = new Student("Xatira", 25, 100);
-			student1.Surname = "Jabbar";
-			student1.FullName();
+			//Console.WriteLine("Enter Name: ");
+			//string name = Console.ReadLine();
+			//Console.WriteLine("Enter Age: ");
+			//int age = int.Parse(Console.ReadLine());
+			//Console.WriteLine("Enter Point: ");
+			//int point = int.Parse(Console.ReadLine());
+
+			//Student student1 = new Student(name, age, point);
+			//Console.WriteLine("Enter GroupNo: ");
+			//string groupNo = Console.ReadLine();
+			//student1.GroupNumber = groupNo;
+
+
+			//student1.FullName();
 			#endregion
 
 		}
